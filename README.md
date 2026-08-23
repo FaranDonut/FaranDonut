@@ -1,6 +1,6 @@
 # Halo Semua!, selamat datang di porto github saya
 
 Perkenalkan nama saya **Muhammad Farand Danendra**.<br>
-Saya seorang **Mahasiswa di jurusan Sains Data** di UPN "Veteran" Jakarta<br>
+Saya seorang **Mahasiswa jurusan Sains Data** di UPN "Veteran" Jakarta<br>
 
 *Jika tertarik berkenalan denganku,silahkan iktui akun [Linkedin] (https://www.linkedin.com/in/muhfaranddanendra/)
