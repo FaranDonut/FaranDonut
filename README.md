@@ -2,9 +2,6 @@
 
 Selamat datang di porto GitHub saya.  
 Perkenalkan, saya **Muhammad Farand Danendra**, mahasiswa **Sains Data** di **UPN "Veteran" Jakarta**.
-
-Sehari-hari banyak berkutat di dunia data—mulai dari analisis, *machine learning*, sampai bikin aplikasi kecil-kecilan buat eksperimen.
-
 ---
 
 #### ツール / Stack
