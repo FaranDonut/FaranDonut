@@ -1,9 +1,8 @@
-### ようこそ — Halo Semua!
-
+### ようこそ - Halo Semua!
 Selamat datang di porto GitHub saya.  
 Perkenalkan, saya **Muhammad Farand Danendra**, mahasiswa **Sains Data** di **UPN "Veteran" Jakarta**.
----
 
+---
 #### ツール / Stack
 `Python` · `SQL` · `C` · `PHP / Laravel` · `Pandas` · `Scikit-learn` · `PyTorch`
 
