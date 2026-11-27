@@ -12,7 +12,7 @@ Perkenalkan, saya **Muhammad Farand Danendra**, mahasiswa **Sains Data** di **UP
 </p>
 
 #### リンク / Kontak
-[LinkedIn](https://www.linkedin.com/in/muhfaranddanendra) · [Instagram](https://instagram.com/USERNAME_KAMU) · [Email](mailto:emailkamu@example.com)
+[LinkedIn](https://www.linkedin.com/in/muhfaranddanendra) 
 
 ---
 
