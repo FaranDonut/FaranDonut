@@ -3,6 +3,15 @@ Perkenalkan, saya **Muhammad Farand Danendra**, mahasiswa **Sains Data** di **UP
 
 ---
 
+#### 分析 / Analisis Profil
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME_GITHUB_KAMU&theme=transparent" alt="Profile Details" />
+  <br />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME_GITHUB_KAMU&theme=transparent" alt="Repos per Language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=USERNAME_GITHUB_KAMU&theme=transparent&utcOffset=7" alt="Productive Time" />
+</p>
+
 #### ツール / Stack
 
 <p align="left">
