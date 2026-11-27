@@ -1,6 +1,4 @@
-### ようこそ — Halo Semua!
-
-Selamat datang di porto GitHub saya.  
+### Selamat datang di porto GitHub saya.  
 Perkenalkan, saya **Muhammad Farand Danendra**, mahasiswa **Sains Data** di **UPN "Veteran" Jakarta**.
 
 ---
